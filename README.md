@@ -1,10 +1,5 @@
 # UCI-HAR-Dataset_Project
 
----
-title: "README"
-output: html_document
----
-## Project:UCI HAR Dataset
 This project is assigned as part of course assessment  of 
 getting & cleaning course in coursera. <br>
 UCI HAR Dataset has been provided
