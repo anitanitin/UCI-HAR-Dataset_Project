@@ -26,7 +26,7 @@ The tidy data is created  and stored in file extracted_tidy_data.txt.
 Tidy data can be load in r using command:
 
 ```{r,eval=FALSE}
-tidy_data<-read.table("extracted_tidy_data.txt")
+tidy_data<-read.table("selected_tidy_data.txt",header=TRUE)
 ```
 
 
